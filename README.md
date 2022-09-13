@@ -1,5 +1,5 @@
 # RDRP-QSAR-studies-: Performed Comparative studies of the different Machine Learning Models used in the implementation of Quantitative
-Structure−Activity RelaƟonship studies for the IdentificaƟon of RdRp-Targeting Compounds as Potential Therapeutics for COVID-19
+Structure−Activity Relationship studies for the Identification of RdRp-Targeting Compounds as Potential Therapeutics for COVID-19
 and Related Viral Infections. 
 
 The aim was to implement various Machine learning models using python and to narrow down towards the best algorithm which can help
